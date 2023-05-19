@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"bierner.emojisense",
+			"piotrpalarz.vscode-gitignore-generator",
+			"adelphes.android-dev-ext",
+			"343max.android-emulator-launcher",
+			"diemasmichiels.emulate",
+			"formulahendry.auto-close-tag",
+			"formulahendry.auto-complete-tag",
+			"steoates.autoimport",
+			"formulahendry.auto-rename-tag",
+			"mgmcdermott.vscode-language-babel",
+			"michelemelluso.code-beautifier",
+			"alefragnani.bookmarks",
+			"formulahendry.code-runner",
+			"streetsidesoftware.code-spell-checker",
+			"naumovs.color-highlight",
+			"bierner.color-info",
+			"anseki.vscode-color",
+			"waderyan.gitblame",
+			"donjayamanne.git-extension-pack",
+			"mhutchie.git-graph",
+			"donjayamanne.githistory",
+			"shaharkazaz.git-merger",
+			"felipecaputo.git-project-manager",
+			"github.codespaces",
+			"github.copilot",
+			"github.vscode-pull-request-github",
+			"codezombiech.gitignore",
+			"eamodio.gitlens",
+			"znck.grammarly",
+			"visualstudioexptteam.vscodeintellicode",
+			"adamvoss.vscode-languagetool",
+			"tyriar.lorem-ipsum",
+			"yzhang.markdown-all-in-one",
+			"bierner.markdown-emoji",
+			"bierner.markdown-preview-github-styles",
+			"davidanson.vscode-markdownlint",
+			"pkief.material-icon-theme",
+			"unifiedjs.vscode-mdx",
+			"christian-kohler.path-intellisense",
+			"esbenp.prettier-vscode",
+			"ban.spellright",
+			"tabnine.tabnine-vscode",
+			"wayou.vscode-todo-highlight",
+			"gruntfuggly.todo-tree",
+			"shardulm94.trailing-spaces",
+			"lihui.vs-color-picker",
+			"fernandoescolar.vscode-solution-explorer",
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
