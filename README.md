@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ImaniAN/repo_name">
+  <a href="https://github.com/ImaniAN/PhandaMo">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     PhandaMo, a freelancing app designed specifically for South Africans. PhandaMo connects local freelancers with businesses and individuals, provides a secure platform for transactions, and allows for rating and reviewing freelancers to ensure quality service. A fast, easy, and reliable solution to find and hire freelancers in various fields.
     <br />
-    <a href="https://github.com/ImaniAN/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ImaniAN/PhandaMo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ImaniAN/repo_name">View Demo</a>
+    <a href="https://github.com/ImaniAN/PhandaMo">View Demo</a>
     ·
-    <a href="https://github.com/ImaniAN/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ImaniAN/PhandaMo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ImaniAN/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ImaniAN/PhandaMo/issues">Request Feature</a>
   </p>
 </div>
 
@@ -125,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/ImaniAN/repo_name.git
+   git clone https://github.com/ImaniAN/PhandaMo.git
    ```
 3. Install NPM packages
    ```sh
@@ -159,7 +159,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/ImaniAN/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ImaniAN/PhandaMo/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,16 +217,16 @@ Project Link: [https://github.com/ImaniAN](https://github.com/ImaniAN)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ImaniAN/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/ImaniAN/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ImaniAN/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/ImaniAN/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/ImaniAN/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/ImaniAN/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ImaniAN/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/ImaniAN/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/ImaniAN/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/ImaniAN/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ImaniAN/PhandaMo.svg?style=for-the-badge
+[contributors-url]: https://github.com/ImaniAN/PhandaMo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ImaniAN/PhandaMo.svg?style=for-the-badge
+[forks-url]: https://github.com/ImaniAN/PhandaMo/network/members
+[stars-shield]: https://img.shields.io/github/stars/ImaniAN/PhandaMo.svg?style=for-the-badge
+[stars-url]: https://github.com/ImaniAN/PhandaMo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ImaniAN/PhandaMo.svg?style=for-the-badge
+[issues-url]: https://github.com/ImaniAN/PhandaMo/issues
+[license-shield]: https://img.shields.io/github/license/ImaniAN/PhandaMo.svg?style=for-the-badge
+[license-url]: https://github.com/ImaniAN/PhandaMo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/imani-niyigena-04ab47136/
 [product-screenshot]: images/screenshot.png
